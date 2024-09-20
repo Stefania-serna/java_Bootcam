@@ -1,4 +1,4 @@
 ### Semillero_Java
-### Ingenieria Informatica
+### Ingenieria Informática
 ### Cristian Andres Quintero 
 
